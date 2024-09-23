@@ -1,9 +1,11 @@
 
 ###Playin Dino...
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="500px">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="600px">
+
 
 **Yahallo I'm KuroSeinen!** 
+
 
 **Idk dude i just do some kernel things for** [**Redmi Note 10 Pro**](https://www.gsmarena.com/xiaomi_redmi_note_10_pro-10662.php) **and** [**Redmi Note 9**](https://www.gsmarena.com/xiaomi_redmi_note_9-10192.php).</br>
 
