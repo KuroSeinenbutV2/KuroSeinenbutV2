@@ -1,5 +1,5 @@
-### Hi there 👋
-**Playin Dino...** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="50px">
+
+**Playin Dino...** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="500px">
 
 **Yahallo I'm KuroSeinen!** 
 
