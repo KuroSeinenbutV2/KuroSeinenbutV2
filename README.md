@@ -1,5 +1,7 @@
 
-**Playin Dino...** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="500px">
+###Playin Dino...
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="500px">
 
 **Yahallo I'm KuroSeinen!** 
 
