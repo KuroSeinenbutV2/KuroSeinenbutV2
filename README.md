@@ -1,7 +1,7 @@
 
 ### Playin Dino...
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="600px">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="650px">
 
 
 **Yahallo I'm KuroSeinen!** 
